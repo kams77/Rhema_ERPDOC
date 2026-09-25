@@ -1,0 +1,6 @@
+{
+  "name": "OrgWorkflow - Portail Entreprise & Gestion Hiérarchique",
+  "description": "Plateforme d'organisation hiérarchique, gestion des workflows documentaires, système de paie RH paramétrable, en-tête et pied de page RHEMA pour tous les documents d'entreprise, habilitations RBAC et signature électronique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
